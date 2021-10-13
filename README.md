@@ -1,6 +1,6 @@
 # 1 - Clone o repositório usando o comando:
 
-git clone  
+git clone  https://github.com/AlessandroVicent/Topico.git
 
 # 2 - Entre na pasta  e copie o arquivo env-example para .env.
 
