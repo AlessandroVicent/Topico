@@ -2,7 +2,7 @@
 
 git clone  https://github.com/AlessandroVicent/Topico.git
 
-# 2 - Entre na pasta  e copie o arquivo env-example para .env.
+# 2 - Entre na pasta Topico e copie o arquivo env-example para .env.
 
 cp env-example .env
 
